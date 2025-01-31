@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jdk-11.0.7">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk-11.0.7" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
